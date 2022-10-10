@@ -3,7 +3,7 @@
 ## Első feladat
  - Git telepítése https://git-scm.com/downloads (minden default)
  - Github regisztráció
- - Ennek a projektnek a klónozása (git clone https://github.com/Kristofvagymi/ python_ora.git)
+ - Ennek a projektnek a klónozása (git clone https://github.com/Kristofvagymi/python_ora.git)
 
 ## Második feladat
  - Python telepítése: https://www.python.org/downloads/ (minden default, kivéve Python hozzáadása PATH-hoz)
